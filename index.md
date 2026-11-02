@@ -4,6 +4,9 @@
     background: #f5f7f2;
   }
 
+  .site-title {
+  display: none !important;
+
   .portfolio {
     max-width: 1050px;
     margin: 0 auto;
@@ -183,7 +186,7 @@
 <div class="portfolio">
 
   <header class="hero">
-    <div class="eyebrow">Portfolio · Ingénierie pédagogique</div>
+    <div class="eyebrow">Portfolio Coumba SOW · Ingénierie pédagogique</div>
     <h1>Conception de formations e-learning</h1>
     <p>
       Découvrez une sélection de ressources et de cours numériques conçus
@@ -194,7 +197,7 @@
   </header>
 
   <section class="section">
-    <h2 class="section-title">01 · Vidéos interactives — Filière mangue</h2>
+    <h2 class="section-title">01 · Vidéos interactives Filière mangue</h2>
     <p class="section-intro">
       Une série de ressources audiovisuelles interactives consacrées aux
       bonnes pratiques de la filière mangue, de l'agréage au
@@ -368,7 +371,7 @@
   </section>
 
   <section class="section">
-    <h2 class="section-title">04 · Formation de formateurs — Biotrade</h2>
+    <h2 class="section-title">04 · Formation de formateurs Biotrade</h2>
     <p class="section-intro">
       Un parcours destiné aux acteurs du biotrade dans quatre pays
       partenaires : le Cameroun, Madagascar, la Namibie et l'Afrique du
@@ -380,7 +383,7 @@
 
       <article class="course-card">
         <div class="course-tag">Formation de formateurs · FR</div>
-        <h3>Former les acteurs du biotrade — Français</h3>
+        <h3>Former les acteurs du biotrade : Français</h3>
         <p>
           Version française du parcours pour accompagner les formateurs
           locaux dans la transmission des bonnes pratiques.
@@ -394,7 +397,7 @@
 
       <article class="course-card">
         <div class="course-tag">Training of trainers · EN</div>
-        <h3>Biotrade Training of Trainers — English</h3>
+        <h3>Biotrade Training of Trainers : English</h3>
         <p>
           English version of the training pathway for local trainers
           supporting the transfer of good practices in partner countries.
