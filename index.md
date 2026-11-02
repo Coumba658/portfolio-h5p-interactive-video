@@ -1,11 +1,12 @@
 
 <style>
+ .site-title {
+    display: none !important;
+  }
+
   body {
     background: #f5f7f2;
   }
-
-  .site-title {
-  display: none !important;
 
   .portfolio {
     max-width: 1050px;
