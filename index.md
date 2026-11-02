@@ -428,11 +428,7 @@
   </section>
 
   <footer class="footer">
-    <p><strong>Portfolio de conception pédagogique e-learning</strong></p>
-    <p>
-      Ingénierie pédagogique · Ressources interactives ·
-      Digital learning
-    </p>
+  
   </footer>
 
 </div>
