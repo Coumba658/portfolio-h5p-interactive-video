@@ -1,8 +1,11 @@
 
 <style>
- .site-title {
-    display: none !important;
-  }
+ .markdown-body > h1:first-child,
+.markdown-body > h1:first-of-type,
+.site-title,
+.project-name {
+  display: none !important;
+}
 
   body {
     background: #f5f7f2;
