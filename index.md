@@ -191,7 +191,7 @@
 
   <header class="hero">
     <div class="eyebrow">Portfolio Coumba SOW · Ingénierie pédagogique</div>
-    <h1>Conception de formations e-learning</h1>
+    <h1>Mes réalisation en ingénierie pédagogique et digital learning</h1>
     <p>
       Découvrez mes réalisations en conception pédagogique e-learning : 
       une sélection de cours et de ressources numériques que j’ai conçus et 
