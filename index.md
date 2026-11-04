@@ -193,10 +193,9 @@
     <div class="eyebrow">Portfolio Coumba SOW · Ingénierie pédagogique</div>
     <h1>Conception de formations e-learning</h1>
     <p>
-      Découvrez une sélection de ressources et de cours numériques conçus
-      pour transformer des contenus techniques en expériences
-      d'apprentissage structurées, interactives et adaptées aux besoins
-      des apprenants.
+      Découvrez mes réalisations en conception pédagogique e-learning : 
+      une sélection de cours et de ressources numériques que j’ai conçus et 
+      développés pour différents publics et contextes de formation.
     </p>
   </header>
 
